@@ -1,3 +1,3 @@
 import seaborn as sns
 
-print(seaborn.__version__)
+print(sns.__version__)
